@@ -14,6 +14,8 @@ gem 'devise'
 gem 'friendly_id'
 gem 'rails_admin'
 gem 'bootstrap-sass'
+gem 'rails-i18n'
+gem 'devise-i18n'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
